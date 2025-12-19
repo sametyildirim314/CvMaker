@@ -1,5 +1,5 @@
 # CvMaker
-Cv-Maker (.NET &amp; C#)
+
 
 Project Overview
 This project is a personal CV/Portfolio web application. It is a single page website developed using ASP.NET Web Forms technology.
